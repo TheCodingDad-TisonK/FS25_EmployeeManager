@@ -29,5 +29,36 @@
     "stars": 2,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-03-30T06:03:03Z",
+    "date": "2026-03-30",
+    "views": {
+      "count": 7,
+      "uniques": 5
+    },
+    "clones": {
+      "count": 0,
+      "uniques": 0
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 5
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "GitHub - TheCodingDad-TisonK/FS25_EmployeeManager: An FS25 mod bringing deep ...",
+        "count": 7,
+        "uniques": 5
+      }
+    ],
+    "releases": [],
+    "stars": 2,
+    "forks": 0,
+    "watchers": 0
   }
 ]
