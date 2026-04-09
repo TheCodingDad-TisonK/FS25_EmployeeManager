@@ -256,5 +256,84 @@
     "stars": 2,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-04-09T18:02:36Z",
+    "date": "2026-04-09",
+    "views": {
+      "count": 25,
+      "uniques": 13
+    },
+    "clones": {
+      "count": 211,
+      "uniques": 38
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 21,
+        "uniques": 12
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 16,
+        "uniques": 12
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n",
+        "title": "/tree/main/l10n",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commit/92da0599bb5ad76d9430841681c9aafd69173605",
+        "title": "/commit/92da0599bb5ad76d9430841681c9aafd69173605",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commits",
+        "title": "/commits",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/network",
+        "title": "/network",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/new/main/l10n",
+        "title": "/new/main/l10n",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/.github/workflows",
+        "title": "/tree/main/.github/workflows",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames",
+        "title": "/tree/main/xml/gui/frames",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/upload/main/l10n",
+        "title": "/upload/main/l10n",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 2,
+    "forks": 0,
+    "watchers": 0
   }
 ]
