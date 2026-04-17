@@ -797,5 +797,78 @@
     "stars": 2,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-04-17T06:08:32Z",
+    "date": "2026-04-17",
+    "views": {
+      "count": 30,
+      "uniques": 20
+    },
+    "clones": {
+      "count": 269,
+      "uniques": 40
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 30,
+        "uniques": 20
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 22,
+        "uniques": 20
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n",
+        "title": "/tree/main/l10n",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml",
+        "title": "/blob/main/modDesc.xml",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/compare/main...LeGrizzly:FS25_EmployeeManager:main",
+        "title": "/compare/main...LeGrizzly:FS25_EmployeeManager:main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/new/main/l10n",
+        "title": "/new/main/l10n",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/.github/workflows",
+        "title": "/tree/main/.github/workflows",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames",
+        "title": "/tree/main/xml/gui/frames",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/upload/main/l10n",
+        "title": "/upload/main/l10n",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 2,
+    "forks": 0,
+    "watchers": 0
   }
 ]
