@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-04-23T12:03:40Z
-**Days tracked:** 19 | **Download snapshots:** 32 (hourly)
+**Last updated:** 2026-04-24T06:16:14Z
+**Days tracked:** 20 | **Download snapshots:** 33 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 37 | 23 |
-| Git Clones | 320 | 67 |
+| Page Views | 31 | 22 |
+| Git Clones | 391 | 95 |
 
-> **Engagement:** 1.6 pages per visitor (14-day avg)
+> **Engagement:** 1.4 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 67 of 23 visitors cloned or downloaded (**291.3%**)
+> **14-day conversion:** 95 of 22 visitors cloned or downloaded (**431.8%**)
 >
-> Unique cloners: 67 | Release downloads: 0
+> Unique cloners: 95 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 320 |
-| **Total Acquisitions** | **320** |
+| Git Clones (14-day) | 391 |
+| **Total Acquisitions** | **391** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 36 | 23 |
+| github.com | 30 | 22 |
 
 ---
 
@@ -74,14 +74,10 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 29 | 23 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n` | 2 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 28 | 22 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/compare/main...LeGrizzly:FS25_EmployeeManager:main` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/new/main/l10n` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/upload/main/l10n` | 1 | 1 |
 
 ---
 
