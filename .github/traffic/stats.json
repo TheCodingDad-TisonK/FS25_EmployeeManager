@@ -1302,5 +1302,66 @@
     "stars": 2,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-04-26T06:13:58Z",
+    "date": "2026-04-26",
+    "views": {
+      "count": 34,
+      "uniques": 23
+    },
+    "clones": {
+      "count": 407,
+      "uniques": 99
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 31,
+        "uniques": 23
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 29,
+        "uniques": 23
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml",
+        "title": "/blob/main/modDesc.xml",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/compare/main...LeGrizzly:FS25_EmployeeManager:main",
+        "title": "/compare/main...LeGrizzly:FS25_EmployeeManager:main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
+        "title": "/tree/feature/l10n/Italian",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1",
+        "title": "/tree/gui-patch-1",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 2,
+    "forks": 0,
+    "watchers": 0
   }
 ]
