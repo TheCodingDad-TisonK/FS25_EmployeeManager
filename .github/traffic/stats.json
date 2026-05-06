@@ -1815,5 +1815,90 @@
     "stars": 2,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-05-06T06:37:09Z",
+    "date": "2026-05-06",
+    "views": {
+      "count": 33,
+      "uniques": 16
+    },
+    "clones": {
+      "count": 482,
+      "uniques": 136
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 25,
+        "uniques": 16
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 22,
+        "uniques": 16
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1",
+        "title": "/tree/gui-patch-1",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/traffic-stats",
+        "title": "/tree/traffic-stats",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/LeGrizzly/FS25_EmployeeManager/compare/main...TheCodingDad-TisonK:FS25_EmployeeManager:main",
+        "title": "ain...TheCodingDad-TisonK:FS25_EmployeeManager:main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/traffic-stats/README.md",
+        "title": "/blob/traffic-stats/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop",
+        "title": "/tree/develop",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
+        "title": "/tree/feature/l10n/Italian",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main",
+        "title": "/tree/main",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 2,
+    "forks": 0,
+    "watchers": 0
   }
 ]
