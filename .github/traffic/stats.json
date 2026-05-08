@@ -1987,29 +1987,29 @@
     "watchers": 0
   },
   {
-    "timestamp": "2026-05-08T06:03:51Z",
+    "timestamp": "2026-05-08T12:14:20Z",
     "date": "2026-05-08",
     "views": {
-      "count": 36,
-      "uniques": 18
+      "count": 40,
+      "uniques": 20
     },
     "clones": {
-      "count": 461,
-      "uniques": 130
+      "count": 437,
+      "uniques": 123
     },
     "referrers": [
       {
         "referrer": "github.com",
-        "count": 28,
-        "uniques": 18
+        "count": 32,
+        "uniques": 20
       }
     ],
     "popular_paths": [
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
         "title": "Overview",
-        "count": 25,
-        "uniques": 18
+        "count": 28,
+        "uniques": 20
       },
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1",
@@ -2048,6 +2048,12 @@
         "uniques": 1
       },
       {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/releases",
+        "title": "/releases",
+        "count": 1,
+        "uniques": 1
+      },
+      {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop",
         "title": "/tree/develop",
         "count": 1,
@@ -2056,12 +2062,6 @@
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
         "title": "/tree/feature/l10n/Italian",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main",
-        "title": "/tree/main",
         "count": 1,
         "uniques": 1
       }
