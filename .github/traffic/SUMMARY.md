@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-05-15T00:02:38Z
-**Days tracked:** 38 | **Download snapshots:** 65 (hourly)
+**Last updated:** 2026-05-15T18:25:47Z
+**Days tracked:** 38 | **Download snapshots:** 66 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 44 | 21 |
-| Git Clones | 407 | 124 |
+| Page Views | 51 | 21 |
+| Git Clones | 390 | 117 |
 
-> **Engagement:** 2.0 pages per visitor (14-day avg)
+> **Engagement:** 2.4 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 124 of 21 visitors cloned or downloaded (**590.4%**)
+> **14-day conversion:** 117 of 21 visitors cloned or downloaded (**557.1%**)
 >
-> Unique cloners: 124 | Release downloads: 0
+> Unique cloners: 117 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 407 |
-| **Total Acquisitions** | **407** |
+| Git Clones (14-day) | 390 |
+| **Total Acquisitions** | **390** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 36 | 21 |
+| github.com | 43 | 21 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 31 | 21 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 33 | 21 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/traffic-stats` | 3 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 2 | 2 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main` | 2 | 2 |
 | `/LeGrizzly/FS25_EmployeeManager/compare/main...TheCodingDad-TisonK:FS25_EmployeeManager:main` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/traffic-stats/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/graphs/contributors` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/releases` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop` | 1 | 1 |
 
 ---
 
