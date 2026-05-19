@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-05-18T00:05:53Z
-**Days tracked:** 41 | **Download snapshots:** 69 (hourly)
+**Last updated:** 2026-05-19T12:17:08Z
+**Days tracked:** 42 | **Download snapshots:** 70 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 58 | 21 |
-| Git Clones | 397 | 125 |
+| Page Views | 55 | 24 |
+| Git Clones | 374 | 119 |
 
-> **Engagement:** 2.7 pages per visitor (14-day avg)
+> **Engagement:** 2.2 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 125 of 21 visitors cloned or downloaded (**595.2%**)
+> **14-day conversion:** 119 of 24 visitors cloned or downloaded (**495.8%**)
 >
-> Unique cloners: 125 | Release downloads: 0
+> Unique cloners: 119 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 397 |
-| **Total Acquisitions** | **397** |
+| Git Clones (14-day) | 374 |
+| **Total Acquisitions** | **374** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 50 | 21 |
+| github.com | 48 | 24 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 35 | 21 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 4 | 3 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/traffic-stats` | 3 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main` | 2 | 2 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 2 | 1 |
-| `/LeGrizzly/FS25_EmployeeManager/compare/main...TheCodingDad-TisonK:FS25_EmployeeManager:main` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 36 | 24 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/commits` | 5 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 3 | 2 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/25934397516` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/traffic-stats/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/graphs/contributors` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/projects` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/releases` | 1 | 1 |
 
 ---
 
