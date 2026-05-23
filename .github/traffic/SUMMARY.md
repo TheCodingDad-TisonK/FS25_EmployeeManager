@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-05-21T12:22:54Z
-**Days tracked:** 44 | **Download snapshots:** 72 (hourly)
+**Last updated:** 2026-05-23T06:40:43Z
+**Days tracked:** 45 | **Download snapshots:** 73 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 55 | 23 |
-| Git Clones | 336 | 107 |
+| Page Views | 45 | 20 |
+| Git Clones | 289 | 81 |
 
-> **Engagement:** 2.3 pages per visitor (14-day avg)
+> **Engagement:** 2.2 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 107 of 23 visitors cloned or downloaded (**465.2%**)
+> **14-day conversion:** 81 of 20 visitors cloned or downloaded (**405.0%**)
 >
-> Unique cloners: 107 | Release downloads: 0
+> Unique cloners: 81 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 336 |
-| **Total Acquisitions** | **336** |
+| Git Clones (14-day) | 289 |
+| **Total Acquisitions** | **289** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 48 | 23 |
+| github.com | 38 | 20 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 36 | 23 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 28 | 20 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commits` | 5 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 3 | 2 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/25934397516` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/graphs/contributors` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/projects` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/releases` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n` | 1 | 1 |
 
 ---
 
