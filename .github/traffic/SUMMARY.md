@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-05-24T00:06:59Z
-**Days tracked:** 46 | **Download snapshots:** 74 (hourly)
+**Last updated:** 2026-05-24T12:05:17Z
+**Days tracked:** 46 | **Download snapshots:** 75 (hourly)
 
 ---
 
@@ -12,7 +12,7 @@
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
 | Page Views | 45 | 20 |
-| Git Clones | 289 | 81 |
+| Git Clones | 273 | 75 |
 
 > **Engagement:** 2.2 pages per visitor (14-day avg)
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 81 of 20 visitors cloned or downloaded (**405.0%**)
+> **14-day conversion:** 75 of 20 visitors cloned or downloaded (**375.0%**)
 >
-> Unique cloners: 81 | Release downloads: 0
+> Unique cloners: 75 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 289 |
-| **Total Acquisitions** | **289** |
+| Git Clones (14-day) | 273 |
+| **Total Acquisitions** | **273** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 38 | 20 |
+| github.com | 40 | 20 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 28 | 20 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 30 | 20 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commits` | 5 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 3 | 2 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/25934397516` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/projects` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames` | 1 | 1 |
 
 ---
 

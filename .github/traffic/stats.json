@@ -3177,20 +3177,20 @@
     "watchers": 0
   },
   {
-    "timestamp": "2026-05-24T00:06:42Z",
+    "timestamp": "2026-05-24T12:05:05Z",
     "date": "2026-05-24",
     "views": {
       "count": 45,
       "uniques": 20
     },
     "clones": {
-      "count": 289,
-      "uniques": 81
+      "count": 273,
+      "uniques": 75
     },
     "referrers": [
       {
         "referrer": "github.com",
-        "count": 38,
+        "count": 40,
         "uniques": 20
       }
     ],
@@ -3198,7 +3198,7 @@
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
         "title": "Overview",
-        "count": 28,
+        "count": 30,
         "uniques": 20
       },
       {
@@ -3232,12 +3232,6 @@
         "uniques": 1
       },
       {
-        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
-        "title": "/branches",
-        "count": 1,
-        "uniques": 1
-      },
-      {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/projects",
         "title": "/projects",
         "count": 1,
@@ -3252,6 +3246,12 @@
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n",
         "title": "/tree/main/l10n",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames",
+        "title": "/tree/main/xml/gui/frames",
         "count": 1,
         "uniques": 1
       }
