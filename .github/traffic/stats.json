@@ -3515,5 +3515,66 @@
     "stars": 4,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-05-29T12:22:36Z",
+    "date": "2026-05-29",
+    "views": {
+      "count": 48,
+      "uniques": 23
+    },
+    "clones": {
+      "count": 265,
+      "uniques": 83
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 42,
+        "uniques": 22
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 38,
+        "uniques": 23
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commits",
+        "title": "/commits",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/25934397516",
+        "title": "/actions/runs/25934397516",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/projects",
+        "title": "/projects",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 4,
+    "forks": 0,
+    "watchers": 0
   }
 ]

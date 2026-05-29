@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-05-28T18:16:01Z
-**Days tracked:** 49 | **Download snapshots:** 80 (hourly)
+**Last updated:** 2026-05-29T12:22:52Z
+**Days tracked:** 50 | **Download snapshots:** 81 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 54 | 23 |
-| Git Clones | 259 | 77 |
+| Page Views | 48 | 23 |
+| Git Clones | 265 | 83 |
 
-> **Engagement:** 2.3 pages per visitor (14-day avg)
+> **Engagement:** 2.0 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 77 of 23 visitors cloned or downloaded (**334.7%**)
+> **14-day conversion:** 83 of 23 visitors cloned or downloaded (**360.8%**)
 >
-> Unique cloners: 77 | Release downloads: 0
+> Unique cloners: 83 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 259 |
-| **Total Acquisitions** | **259** |
+| Git Clones (14-day) | 265 |
+| **Total Acquisitions** | **265** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 48 | 22 |
+| github.com | 42 | 22 |
 
 ---
 
@@ -74,16 +74,12 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 39 | 23 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 38 | 23 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commits` | 5 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 3 | 2 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 2 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/25934397516` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/projects` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/l10n` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/xml/gui/frames` | 1 | 1 |
 
 ---
 
