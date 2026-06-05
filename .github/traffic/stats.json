@@ -3815,5 +3815,60 @@
     "stars": 4,
     "forks": 0,
     "watchers": 0
+  },
+  {
+    "timestamp": "2026-06-05T00:15:48Z",
+    "date": "2026-06-05",
+    "views": {
+      "count": 40,
+      "uniques": 25
+    },
+    "clones": {
+      "count": 286,
+      "uniques": 97
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 39,
+        "uniques": 25
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 36,
+        "uniques": 25
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/26774685259",
+        "title": "/actions/runs/26774685259",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/stargazers",
+        "title": "/stargazers",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 4,
+    "forks": 0,
+    "watchers": 0
   }
 ]
