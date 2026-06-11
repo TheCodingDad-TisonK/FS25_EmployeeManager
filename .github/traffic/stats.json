@@ -4205,5 +4205,90 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-06-11T00:23:04Z",
+    "date": "2026-06-11",
+    "views": {
+      "count": 49,
+      "uniques": 29
+    },
+    "clones": {
+      "count": 273,
+      "uniques": 88
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 46,
+        "uniques": 29
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 39,
+        "uniques": 29
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/26774685259",
+        "title": "/actions/runs/26774685259",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commit/d8578560080f38c4da0ee591288869272cd17ffc",
+        "title": "/commit/d8578560080f38c4da0ee591288869272cd17ffc",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/releases",
+        "title": "/releases",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/stargazers",
+        "title": "/stargazers",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/traffic-stats",
+        "title": "/tree/traffic-stats",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
