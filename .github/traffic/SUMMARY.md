@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-06-11T18:22:04Z
-**Days tracked:** 62 | **Download snapshots:** 102 (hourly)
+**Last updated:** 2026-06-13T18:15:56Z
+**Days tracked:** 63 | **Download snapshots:** 103 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 49 | 27 |
-| Git Clones | 280 | 90 |
+| Page Views | 47 | 27 |
+| Git Clones | 262 | 80 |
 
-> **Engagement:** 1.8 pages per visitor (14-day avg)
+> **Engagement:** 1.7 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 90 of 27 visitors cloned or downloaded (**333.3%**)
+> **14-day conversion:** 80 of 27 visitors cloned or downloaded (**296.2%**)
 >
-> Unique cloners: 90 | Release downloads: 0
+> Unique cloners: 80 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 280 |
-| **Total Acquisitions** | **280** |
+| Git Clones (14-day) | 262 |
+| **Total Acquisitions** | **262** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 46 | 27 |
+| github.com | 43 | 27 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 36 | 27 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 34 | 27 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 2 | 2 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions/runs/26774685259` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/scripts/events/FireEmployeeEvent.lua` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commit/d8578560080f38c4da0ee591288869272cd17ffc` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/releases` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/stargazers` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/scripts` | 1 | 1 |
 
 ---
 
