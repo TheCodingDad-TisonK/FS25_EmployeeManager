@@ -4545,5 +4545,90 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-06-18T00:21:02Z",
+    "date": "2026-06-18",
+    "views": {
+      "count": 55,
+      "uniques": 28
+    },
+    "clones": {
+      "count": 238,
+      "uniques": 66
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 40,
+        "uniques": 28
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 38,
+        "uniques": 28
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/agents",
+        "title": "/agents",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md",
+        "title": "/blob/main/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/scripts/events/FireEmployeeEvent.lua",
+        "title": "/blob/main/scripts/events/FireEmployeeEvent.lua",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commit/d8578560080f38c4da0ee591288869272cd17ffc",
+        "title": "/commit/d8578560080f38c4da0ee591288869272cd17ffc",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commits/main",
+        "title": "/commits/main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/edit/main/README.md",
+        "title": "/edit/main/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
