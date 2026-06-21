@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-06-21T00:16:11Z
-**Days tracked:** 68 | **Download snapshots:** 111 (hourly)
+**Last updated:** 2026-06-21T06:10:28Z
+**Days tracked:** 68 | **Download snapshots:** 112 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 56 | 29 |
-| Git Clones | 293 | 84 |
+| Page Views | 54 | 24 |
+| Git Clones | 330 | 97 |
 
-> **Engagement:** 1.9 pages per visitor (14-day avg)
+> **Engagement:** 2.2 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 84 of 29 visitors cloned or downloaded (**289.6%**)
+> **14-day conversion:** 97 of 24 visitors cloned or downloaded (**404.1%**)
 >
-> Unique cloners: 84 | Release downloads: 0
+> Unique cloners: 97 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 293 |
-| **Total Acquisitions** | **293** |
+| Git Clones (14-day) | 330 |
+| **Total Acquisitions** | **330** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 41 | 29 |
+| github.com | 35 | 24 |
 
 ---
 
@@ -74,11 +74,11 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 39 | 29 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 34 | 24 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 2 | 2 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 2 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian` | 2 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/agents` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/scripts/events/FireEmployeeEvent.lua` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commit/d8578560080f38c4da0ee591288869272cd17ffc` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commits/main` | 1 | 1 |

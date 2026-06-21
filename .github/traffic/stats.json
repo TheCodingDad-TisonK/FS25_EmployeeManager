@@ -4717,29 +4717,29 @@
     "watchers": 1
   },
   {
-    "timestamp": "2026-06-21T00:15:57Z",
+    "timestamp": "2026-06-21T06:10:11Z",
     "date": "2026-06-21",
     "views": {
-      "count": 56,
-      "uniques": 29
+      "count": 54,
+      "uniques": 24
     },
     "clones": {
-      "count": 293,
-      "uniques": 84
+      "count": 330,
+      "uniques": 97
     },
     "referrers": [
       {
         "referrer": "github.com",
-        "count": 41,
-        "uniques": 29
+        "count": 35,
+        "uniques": 24
       }
     ],
     "popular_paths": [
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
         "title": "Overview",
-        "count": 39,
-        "uniques": 29
+        "count": 34,
+        "uniques": 24
       },
       {
         "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
@@ -4754,14 +4754,14 @@
         "uniques": 1
       },
       {
-        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/agents",
-        "title": "/agents",
-        "count": 1,
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
+        "title": "/tree/feature/l10n/Italian",
+        "count": 2,
         "uniques": 1
       },
       {
-        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md",
-        "title": "/blob/main/README.md",
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/agents",
+        "title": "/agents",
         "count": 1,
         "uniques": 1
       },
