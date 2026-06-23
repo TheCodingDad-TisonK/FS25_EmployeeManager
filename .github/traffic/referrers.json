@@ -481,5 +481,12 @@
       "count": 32,
       "uniques": 23
     }
+  ],
+  "2026-06-23": [
+    {
+      "referrer": "github.com",
+      "count": 31,
+      "uniques": 21
+    }
   ]
 }
