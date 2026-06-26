@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-06-23T18:06:55Z
-**Days tracked:** 70 | **Download snapshots:** 115 (hourly)
+**Last updated:** 2026-06-26T00:16:50Z
+**Days tracked:** 71 | **Download snapshots:** 116 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 47 | 21 |
-| Git Clones | 361 | 103 |
+| Page Views | 46 | 22 |
+| Git Clones | 380 | 106 |
 
-> **Engagement:** 2.2 pages per visitor (14-day avg)
+> **Engagement:** 2.0 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 103 of 21 visitors cloned or downloaded (**490.4%**)
+> **14-day conversion:** 106 of 22 visitors cloned or downloaded (**481.8%**)
 >
-> Unique cloners: 103 | Release downloads: 0
+> Unique cloners: 106 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 361 |
-| **Total Acquisitions** | **361** |
+| Git Clones (14-day) | 380 |
+| **Total Acquisitions** | **380** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 31 | 21 |
+| github.com | 30 | 22 |
 
 ---
 
@@ -74,16 +74,16 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 32 | 21 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 34 | 22 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 2 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian` | 2 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/agents` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/scripts/events/FireEmployeeEvent.lua` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/commits/main` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/edit/main/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/pulse` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop` | 1 | 1 |
 
 ---
 
