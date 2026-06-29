@@ -5225,5 +5225,90 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-06-29T00:14:58Z",
+    "date": "2026-06-29",
+    "views": {
+      "count": 51,
+      "uniques": 23
+    },
+    "clones": {
+      "count": 387,
+      "uniques": 104
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 33,
+        "uniques": 23
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 38,
+        "uniques": 23
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/actions",
+        "title": "/actions",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
+        "title": "/tree/feature/l10n/Italian",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/agents",
+        "title": "/agents",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/commits/main",
+        "title": "/commits/main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/edit/main/README.md",
+        "title": "/edit/main/README.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulls",
+        "title": "/pulls",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/pulse",
+        "title": "/pulse",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop",
+        "title": "/tree/develop",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
