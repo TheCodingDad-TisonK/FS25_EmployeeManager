@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-06-29T00:15:12Z
-**Days tracked:** 74 | **Download snapshots:** 123 (hourly)
+**Last updated:** 2026-07-01T00:15:12Z
+**Days tracked:** 75 | **Download snapshots:** 124 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 51 | 23 |
-| Git Clones | 387 | 104 |
+| Page Views | 34 | 19 |
+| Git Clones | 380 | 100 |
 
-> **Engagement:** 2.2 pages per visitor (14-day avg)
+> **Engagement:** 1.7 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 104 of 23 visitors cloned or downloaded (**452.1%**)
+> **14-day conversion:** 100 of 19 visitors cloned or downloaded (**526.3%**)
 >
-> Unique cloners: 104 | Release downloads: 0
+> Unique cloners: 100 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 387 |
-| **Total Acquisitions** | **387** |
+| Git Clones (14-day) | 380 |
+| **Total Acquisitions** | **380** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 33 | 23 |
+| github.com | 27 | 19 |
 
 ---
 
@@ -74,16 +74,11 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 38 | 23 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/actions` | 2 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 28 | 19 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 2 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian` | 2 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/agents` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/commits/main` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/edit/main/README.md` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulls` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/pulse` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1` | 1 | 1 |
 
 ---
 
