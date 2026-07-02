@@ -5365,5 +5365,60 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-07-02T18:40:42Z",
+    "date": "2026-07-02",
+    "views": {
+      "count": 34,
+      "uniques": 19
+    },
+    "clones": {
+      "count": 373,
+      "uniques": 95
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 27,
+        "uniques": 19
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 28,
+        "uniques": 19
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian",
+        "title": "/tree/feature/l10n/Italian",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop",
+        "title": "/tree/develop",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1",
+        "title": "/tree/gui-patch-1",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
