@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-07-05T00:07:14Z
-**Days tracked:** 79 | **Download snapshots:** 131 (hourly)
+**Last updated:** 2026-07-07T12:00:44Z
+**Days tracked:** 80 | **Download snapshots:** 132 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 33 | 19 |
-| Git Clones | 336 | 81 |
+| Page Views | 25 | 17 |
+| Git Clones | 262 | 61 |
 
-> **Engagement:** 1.7 pages per visitor (14-day avg)
+> **Engagement:** 1.4 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 81 of 19 visitors cloned or downloaded (**426.3%**)
+> **14-day conversion:** 61 of 17 visitors cloned or downloaded (**358.8%**)
 >
-> Unique cloners: 81 | Release downloads: 0
+> Unique cloners: 61 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 336 |
-| **Total Acquisitions** | **336** |
+| Git Clones (14-day) | 262 |
+| **Total Acquisitions** | **262** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 26 | 19 |
+| github.com | 22 | 17 |
 
 ---
 
@@ -74,11 +74,8 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 27 | 19 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 23 | 17 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/branches` | 2 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/feature/l10n/Italian` | 2 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/develop` | 1 | 1 |
-| `/TheCodingDad-TisonK/FS25_EmployeeManager/tree/gui-patch-1` | 1 | 1 |
 
 ---
 
