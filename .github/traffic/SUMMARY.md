@@ -1,7 +1,7 @@
 # Repository Traffic Dashboard
 
-**Last updated:** 2026-07-18T06:10:57Z
-**Days tracked:** 91 | **Download snapshots:** 152 (hourly)
+**Last updated:** 2026-07-19T06:37:16Z
+**Days tracked:** 92 | **Download snapshots:** 153 (hourly)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | 14-Day Total | Unique |
 |--------|-------------|--------|
-| Page Views | 17 | 16 |
-| Git Clones | 248 | 54 |
+| Page Views | 15 | 13 |
+| Git Clones | 233 | 45 |
 
-> **Engagement:** 1.0 pages per visitor (14-day avg)
+> **Engagement:** 1.1 pages per visitor (14-day avg)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ![Conversion](charts/conversion.png)
 
-> **14-day conversion:** 54 of 16 visitors cloned or downloaded (**337.5%**)
+> **14-day conversion:** 45 of 13 visitors cloned or downloaded (**346.1%**)
 >
-> Unique cloners: 54 | Release downloads: 0
+> Unique cloners: 45 | Release downloads: 0
 
 ---
 
@@ -43,8 +43,8 @@
 | Channel | Count |
 |---------|-------|
 | Zip Downloads | 0 |
-| Git Clones (14-day) | 248 |
-| **Total Acquisitions** | **248** |
+| Git Clones (14-day) | 233 |
+| **Total Acquisitions** | **233** |
 
 ---
 
@@ -54,7 +54,7 @@
 
 | Source | Views | Unique |
 |--------|-------|--------|
-| github.com | 16 | 15 |
+| github.com | 14 | 12 |
 
 ---
 
@@ -74,9 +74,10 @@
 
 | Page | Views | Unique |
 |------|-------|--------|
-| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 15 | 15 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager` | 12 | 12 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/README.md` | 1 | 1 |
 | `/TheCodingDad-TisonK/FS25_EmployeeManager/blob/main/modDesc.xml` | 1 | 1 |
+| `/TheCodingDad-TisonK/FS25_EmployeeManager/releases` | 1 | 1 |
 
 ---
 
