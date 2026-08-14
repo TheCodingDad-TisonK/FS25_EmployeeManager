@@ -7218,5 +7218,54 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-08-14T06:19:09Z",
+    "date": "2026-08-14",
+    "views": {
+      "count": 11,
+      "uniques": 7
+    },
+    "clones": {
+      "count": 211,
+      "uniques": 26
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 10,
+        "uniques": 6
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 7,
+        "uniques": 7
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 2,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/blob/traffic-stats/.github/traffic/SUMMARY.md",
+        "title": "/blob/traffic-stats/.github/traffic/SUMMARY.md",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/traffic-stats",
+        "title": "/tree/traffic-stats",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
