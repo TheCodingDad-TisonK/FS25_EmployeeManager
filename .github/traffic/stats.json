@@ -7793,5 +7793,60 @@
     "stars": 5,
     "forks": 0,
     "watchers": 1
+  },
+  {
+    "timestamp": "2026-08-25T06:58:33Z",
+    "date": "2026-08-25",
+    "views": {
+      "count": 19,
+      "uniques": 10
+    },
+    "clones": {
+      "count": 309,
+      "uniques": 19
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 11,
+        "uniques": 7
+      }
+    ],
+    "popular_paths": [
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager",
+        "title": "Overview",
+        "count": 15,
+        "uniques": 10
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/branches",
+        "title": "/branches",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main",
+        "title": "/tree/main",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/scripts",
+        "title": "/tree/main/scripts",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/TheCodingDad-TisonK/FS25_EmployeeManager/tree/main/scripts/managers",
+        "title": "/tree/main/scripts/managers",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "releases": [],
+    "stars": 5,
+    "forks": 0,
+    "watchers": 1
   }
 ]
